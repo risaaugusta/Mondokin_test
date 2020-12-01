@@ -1,0 +1,1 @@
+@extends('layouts.app', ['pageTitle' => 'Selamat Datang Admin Keuangan'])
